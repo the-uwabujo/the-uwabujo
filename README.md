@@ -4,7 +4,7 @@
 
 
  <h2>Hi, I'm Onochie! </h2>
-<p><em>DevOps & Backend Engineer Python/DB
+<p><em>DevOps & Backend Engineer (FASTAPI)/DB
 </em></p>
 
 
